@@ -22,10 +22,10 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>.
 /* USB Device descriptor parameter */
 #define VENDOR_ID       0xFEED
 #define PRODUCT_ID      0x6060
-#define DEVICE_VER      0x0001
+#define DEVICE_VER      0x0002
 #define MANUFACTURER    Bratzworth
 #define PRODUCT         The Flaming Jackalope 
-#define DESCRIPTION     t.m.k. keyboard firmware for The Flaming Jackalope 
+#define DESCRIPTION     Just your average 65% keyboard
 
 /* key matrix size */
 #define MATRIX_ROWS 5
